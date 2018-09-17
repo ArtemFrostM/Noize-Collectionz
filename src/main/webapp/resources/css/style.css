@@ -1,0 +1,25 @@
+.header{
+	background-color:  #2B1B17 ;
+	width: 85%;
+	color: white;
+}
+
+.footer {
+	/* position: absolute; */
+	width: 85%;
+	bottom: 0;
+	height: 50px;
+	background-color: #6960EC;
+	padding: 15px;
+}
+
+.error {
+	color: red;
+}
+
+.dropdown-menu-center {
+  left: 50% !important;
+  right: auto !important;
+  text-align: center !important;
+  transform: translate(-50%, 0) !important;
+}
